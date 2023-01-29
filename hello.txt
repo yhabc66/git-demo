@@ -13,4 +13,8 @@ hello atguitu! hello get!
 hello atguitu! hello get!
 hello atguitu! hello get!
 hello atguitu! hello get!
+<<<<<<< HEAD
 hello atguitu! hello get!  asdf
+=======
+hello atguitu! hello get!   hot-fix test
+>>>>>>> hot-fix
